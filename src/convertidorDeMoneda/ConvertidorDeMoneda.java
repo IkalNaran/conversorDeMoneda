@@ -1,4 +1,4 @@
 package convertidorDeMoneda;
 
-public class ConvertidorDeMoneda r{
+public class ConvertidorDeMoneda{
 }
